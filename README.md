@@ -1,4 +1,4 @@
-# Terraform AWS SFTP Infrastructure
+# Terraform AWS SFTP Infrastructure Redpack
 
 This Terraform project provisions an SFTP server over AWS Transfer Family, integrated with Amazon S3 and managed via a Route 53 Hosted Zone. It is designed with a modular approach for clarity, scalability, and reuse.
 
